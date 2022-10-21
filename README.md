@@ -23,4 +23,6 @@ I own a bot called [**Airwavy**](https://airwavy.site.xyz), it has over 100,000 
 
 <br/>
 
+<h2 align="left">  </h2>
+
 ![Airwav's Stats](https://github-readme-stats.vercel.app/api?username=Airwav&show_icons=true&hide_border=true)
