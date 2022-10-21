@@ -2,8 +2,6 @@
   <a href="https://airwavy.site.xyz"><img src="https://cdn.discordapp.com/attachments/951172393869639711/1030629157954138112/Logo_no_name_white.png" width="60" height="60"></a>
 </h1>
 
-### About me
-
 <h2 align="center">About me</h2>
 
 ### About me
