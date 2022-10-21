@@ -12,13 +12,13 @@ I own a bot called [**Airwavy**](https://airwavy.site.xyz), it has over 100,000 
 
 <h2 align="center"> Languages and tools I use </h2>
 
-<h4 align="center"> JavaScript </h4>
+<h4 align="left"> JavaScript </h4>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30"></code>
 
-<h4 align="center"> NodeJS </h4>
+<h4 align="left"> NodeJS </h4>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="30"></code>
 
-<h4 align="center"> GIT </h4>
+<h4 align="left"> GIT </h4>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" height="30"></code>
 
 <br/>
