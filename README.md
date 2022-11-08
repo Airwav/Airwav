@@ -8,7 +8,7 @@ Hey, I'm Airwav. A male who enjoys playing online games, I'm from the UK and cod
 
 <h2 align="center"> ► Airwavy (BOT) ◄ </h2>
 
-I own a bot called [**Airwavy**](https://airwavy.site.xyz), it has over 100,000 users and soon hoping to be verified.
+I own a **verified** bot called [**Airwavy**](https://airwavy.site.xyz), it has over 100,000 users
 
 <h2 align="center"> ► Languages and tools I use ◄ </h2>
 
