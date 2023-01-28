@@ -4,7 +4,7 @@
 
 <h2 align="center"> ► About me ◄ </h2>
 
-Hey, I'm Airwav. A male who enjoys playing online games, I'm from the UK and code on the side.
+Hey, I'm Airwav. I play online games, I'm from the UK and also do developing.
 
 <h2 align="center"> ► Airwavy (BOT) ◄ </h2>
 
