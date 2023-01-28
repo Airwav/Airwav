@@ -25,4 +25,4 @@ I own a **verified** bot called [**Airwavy**](https://airwavy.site.xyz), wih ove
 
 <h2 align="left">  </h2>
 
-![Airwav's Stats](https://github-readme-stats.vercel.app/api?username=Airwav&show_icons=true&hide_border=true)
+![Airwav's Stats]([https://github-readme-stats.vercel.app/api?username=Airwav&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Airwav&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula))
