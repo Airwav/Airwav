@@ -24,4 +24,4 @@ I own a **verified** bot called [**Airwavy**](https://airwavy.site.xyz), wih ove
 
 ![Airwav's Stats](https://github-readme-stats.vercel.app/api?username=Airwav&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula)
 
-![Airwav's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=airwav&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+![Airwav's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
