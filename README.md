@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://airwavy.site.xyz"><img src="https://cdn.discordapp.com/attachments/865294558690672680/1039598862417010738/airwavy_logo_white_500x500.png" width="200" height="200"></a>
+  <a href="https://airwavy.site.xyz"><img src="https://cdn.discordapp.com/attachments/1039277692106846288/1131756527636729917/Airwavy_Logo_no_text_light.png" width="200" height="200"></a>
 </h1>
 
 <h2 align="center"> ► About me ◄ </h2>
